@@ -25,4 +25,16 @@ When divided into parts, namely data structure and algorithm; one may follow the
 1. Dynamic Programming
 1. Advanced algorithms on tree and graph
 
+## Some must have knowledge :
+
+| Data Structures  | Algorithms  | Concepts  |
+|---|---|---|
+| Linked List  | BFS  | Bit Manipulation  |
+| Trees, Tries, Graphs  | DFS  | Memory [Stack vs Heap]  |
+| Stacks & Queues  | Binary Search  | Recursion  |
+| Heaps  | Merge Sort  | Dynamic PRogramming  |
+| Vectors/ArrayLists  | Quick Sort  | Big O Time and Space  |
+| Hash Tables  |   |   |
+| | | |
+
 # Learning is a continuous process.
